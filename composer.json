@@ -32,6 +32,10 @@
             "TZK\\TaigaLaravel\\": "tests"
         }
     },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
